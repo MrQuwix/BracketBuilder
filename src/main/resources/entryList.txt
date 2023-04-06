@@ -1,0 +1,149 @@
+Ajani, Caller of the Pride; Ajani
+Ajani Steadfast; Ajani
+Ajani Goldmane; Ajani
+Ajani, Adversary of Tyrants; Ajani
+Ajani, Strength of the Pride; Ajani
+Elspeth, Knight Errant; Elspeth
+Elspeth, Sun’s Nemesis; Elspeth
+Elspeth Tirrel; Elspeth
+Elspeth, Sun’s Champion; Elspeth
+Gideon of the Trials; Gideon
+Gideon Blackblade; Gideon
+Gideon, Ally of Zendikar; Gideon
+Gideon, Champion of Justice; Gideon
+Gideon Jura; Gideon
+Teyo, the Shieldmage; Teyo
+The Wanderer; The Wanderer
+Serra the Benevolent; Serra
+Jace Beleren; Jace
+Jace, Cunning Castaway; Jace
+Jace, Wielder of Mysteries; Jace
+Jace, Architect of Thought; Jace
+Jace, the Mind Sculptor; Jace
+Jace, the Living Guildpact; Jace
+Jace, Unraveler of Secrets; Jace
+Jace, Memory Adept; Jace
+Tezzeret the Seeker; Tezzeret
+Tezzeret, Artifice Master; Tezzeret
+Tamiyo, the Moon Sage; Tezzeret
+Kasmina, Enigmatic Mentor; Kasmina
+Narset, Parter of the Veil; Narset
+Mu Yanling, Sky Dancer; Yanling
+Liliana of the Veil; Liliana
+Liliana, the Last Hope; Liliana
+Liliana, Untouched by Death; Liliana
+Liliana of the Dark Realms; Liliana
+Liliana Vess; Liliana
+Liliana, Death’s Majesty; Liliana
+Liliana, Dreadhorde General; Liliana
+Ob Nixilis Reignited; Nixilis
+Ob Nixilis, the Hate-Twisted; Nixilis
+Sorin, Imperious Bloodlord; Sorin
+Sorin Markov; Sorin
+Davriel, Rogue Shadowmage; Davriel
+Tibalt, the Fiend-Blooded; Tibalt
+Tibalt, Rakish Instigator; Tibalt
+Chandra, Acolyte of Flame; Chandra
+Chandra, Novice Pyromancer; Chandra
+Chandra, Pyromaster; Chandra
+Chandra, Torch of Defiance; Chandra
+Chandra, Fire Artisan; Chandra
+Chandra the Firebrand; Chandra
+Chandra Nalaar; Chandra
+Chandra, Flamecaller; Chandra
+Chandra Ablaze; Chandra
+Chandra, Awakened Inferno; Chandra
+Sarkhan the Fire-Blood; Sarkhan
+Sarkhan, the Dragonspeaker; Sarkhan
+Sarkhan, the Masterless; Sarkhan
+Koth of the Hammer; Koth
+Jaya Ballard; Jaya
+Jaya, Venerated Firemage; Jaya
+Lukka, Coppercoat Outcast; Lukka
+Garruk Wildspeaker; Garruk
+Garruk, Primal Hunter; Garruk
+Garruk, Caller of Beasts; Garruk
+Nissa, Voice of Zendikar; Nissa
+Nissa Revane; Nissa
+Nissa, Vital Force; Nissa
+Nissa, Who Shakes the World; Nissa
+Nissa Worldwaker; Nissa
+Vivien, Champion of the Wilds; Vivien
+Vivien, Arkbow Ranger; Vivien
+Vivien Reid; Vivien
+Vivien, Monsters’ Advocate; Vivien
+Jiang Yanggu, Wildcrafter; Yanggu
+Arlinn, Voice of the Pack; Arlinn
+Karn, Scion of Urza; Karn
+Karn, the Great Creator; Karn
+Karn Liberated; Karn
+Ugin, the Ineffable; Ugin
+Ugin, the Spirit Dragon; Ugin
+Dovin, Grand Arbiter; Dovin
+Dovin, Hand of Control; Dovin
+Dovin Baan; Dovin
+Narset Transcendent; Narset
+Venser, the Sojourner; Venser
+Teferi, Time Raveler; Teferi
+Teferi, Hero of Dominaria; Teferi
+Ashiok, Nightmare Weaver; Ashiok
+Ashiok, Dream Render; Ashiok
+Ashiok, Nightmare Muse; Ashiok
+Tezzeret, Agent of Bolas; Tezzeret
+Tezzeret the Schemer; Tezzeret
+Daretti, Ingenious Iconoclast; Daretti
+Angrath, Captain of Chaos; Angrath
+Angrath, the Flame Chained; Angrath
+Sarkhan the Mad; Sarkhan
+Wrenn and Six; Wrenn
+Domri Rade; Domri
+Domri, Anarch of Bolas; Domri
+Domri, Chaos Bringer; Domri
+Samut, the Tested; Samut
+Samut, Tyrant Smasher; Samut
+Arlinn Kord; Arlinn
+Sarkhan Vol; Sarkhan
+Xenagos, the Reveler; Xenagos
+Huatli, Sun’s Heart; Huatli
+Huatli, Radiant Champion; Huatli
+Ajani, the Greathearted; Ajani
+Ajani, Mentor of Heroes; Ajani
+Ajani Unyielding; Ajani
+Calix Destiny’s Hand; Calix
+Kaya, the Usurper; Kaya
+Kaya, Ghost Assassin; Kaya
+Kaya, Bane of the Dead; Kaya
+Sorin, Lord of Innistrad; Sorin
+Sorin, Solemn Visitor; Sorin
+Sorin, Vengeful Bloodlord; Sorin
+Sorin, Grim Nemesis; Sorin
+Dack Fayden; Dack
+Saheeli Rae; Saheeli
+Saheeli, Sublime Artificer; Saheeli
+Ral Zarek; Ral
+Ral, Storm Conduit; Ral
+Ral, Izzet Viceroy; Ral
+The Royal Scions; Will Rowan
+Garruk Relentless; Garruk
+Garruk, Cursed Huntsman; Garruk
+Garruk, Apex Predator; Garruk
+Vraska, Swarm’s Eminence; Vraska
+Vraska, Golgari Queen; Vraska
+Vraska the Unseen; Vraska
+Vraska, Relic Seeker; Vraska
+Ajani Vengeant; Ajani
+Nahiri, the Harbinger; Nahiri
+Nahiri, Storm of Stone; Nahiri
+Huatli, Warrior Poet; Huatli
+Kiora, Behemoth Beckoner; Kiora
+Kiora, the Crashing Wave; Kiora
+Kiora, Master of the Depths; Kiora
+Nissa, Steward of Elements; Nissa
+Oko, Thief of Crowns; Oko
+Tamiyo, Collector of Tales; Tamiyo
+Nicol Bolas, Dragon-God; Bolas
+Nicol Bolas, God-Pharaoh; Bolas
+Nicol Bolas, Planeswalker; Bolas
+Tamiyo, Field Researcher; Tamiyo
+Narset of the Ancient Ways; Narset
+Sarkhan Unbroken; Sarkhan
